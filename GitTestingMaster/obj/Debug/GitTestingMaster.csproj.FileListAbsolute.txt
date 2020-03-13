@@ -1,0 +1,6 @@
+C:\Users\Flap1\on pc docs\GitHubStuff\tester-code\GitTestingMaster\bin\Debug\GitTestingMaster.exe.config
+C:\Users\Flap1\on pc docs\GitHubStuff\tester-code\GitTestingMaster\bin\Debug\GitTestingMaster.exe
+C:\Users\Flap1\on pc docs\GitHubStuff\tester-code\GitTestingMaster\bin\Debug\GitTestingMaster.pdb
+C:\Users\Flap1\on pc docs\GitHubStuff\tester-code\GitTestingMaster\obj\Debug\GitTestingMaster.csprojAssemblyReference.cache
+C:\Users\Flap1\on pc docs\GitHubStuff\tester-code\GitTestingMaster\obj\Debug\GitTestingMaster.exe
+C:\Users\Flap1\on pc docs\GitHubStuff\tester-code\GitTestingMaster\obj\Debug\GitTestingMaster.pdb

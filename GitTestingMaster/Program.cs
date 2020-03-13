@@ -10,7 +10,15 @@ namespace GitTestingMaster
 	{
 		static void Main(string[] args)
 		{
+
 			Console.WriteLine("This should be in the master string");
+
+			while (0 == 0)
+			{
+				Console.ForegroundColor = ConsoleColor.Green;
+				Console.Write("No.");
+				System.Threading.Thread.Sleep(5);
+			}
 		}
 	}
 }
